@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Success Find Pet by Status - Sold</name>
+   <name>TC.010 - Get Inventory Status</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>b4357b7c-f2c8-40b3-9282-728685babad2</testCaseGuid>
+   <testCaseGuid>13476cbb-a217-42dd-af5f-0a521f34db26</testCaseGuid>
 </TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.004 - Find Pet by Status - Available</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8e1e1843-abc8-4aa6-b698-ae4167208773</testCaseGuid>
+</TestCaseEntity>

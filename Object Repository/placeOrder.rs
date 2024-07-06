@@ -9,8 +9,19 @@
    <connectionTimeout>-1</connectionTimeout>
    <followRedirects>false</followRedirects>
    <httpBody></httpBody>
-   <httpBodyContent></httpBodyContent>
-   <httpBodyType></httpBodyType>
+   <httpBodyContent>{
+  &quot;text&quot;: &quot;{\n  \&quot;id\&quot;: 0,\n  \&quot;petId\&quot;: 0,\n  \&quot;quantity\&quot;: \&quot;${quantity}\&quot;,\n  \&quot;shipDate\&quot;: \&quot;${shipDate}\&quot;,\n  \&quot;status\&quot;: \&quot;${status}\&quot;,\n  \&quot;complete\&quot;: true\n}&quot;,
+  &quot;contentType&quot;: &quot;application/json&quot;,
+  &quot;charset&quot;: &quot;UTF-8&quot;
+}</httpBodyContent>
+   <httpBodyType>text</httpBodyType>
+   <httpHeaderProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Content-Type</name>
+      <type>Main</type>
+      <value>application/json</value>
+   </httpHeaderProperties>
    <httpHeaderProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
@@ -45,6 +56,27 @@
    <soapServiceFunction></soapServiceFunction>
    <socketTimeout>-1</socketTimeout>
    <useServiceInfoFromWsdl>true</useServiceInfoFromWsdl>
+   <variables>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>ce438abf-bf15-4b09-9af1-82b322f64457</id>
+      <masked>false</masked>
+      <name>quantity</name>
+   </variables>
+   <variables>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4c57f734-b8b9-48e7-81c1-ce598b32f26e</id>
+      <masked>false</masked>
+      <name>shipDate</name>
+   </variables>
+   <variables>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7e8d6861-1592-45f8-aa4e-808a07400bd5</id>
+      <masked>false</masked>
+      <name>status</name>
+   </variables>
    <verificationScript>import static org.assertj.core.api.Assertions.*
 
 import com.kms.katalon.core.testobject.RequestObject

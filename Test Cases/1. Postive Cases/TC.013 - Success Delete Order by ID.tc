@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.013 - Success Delete Order by ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df516b4b-717f-4ff6-bb05-2529b9754f44</testCaseGuid>
+</TestCaseEntity>

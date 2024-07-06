@@ -45,3 +45,4 @@ WS.verifyElementPropertyValue(getResponse, "name", name)
 WS.verifyElementPropertyValue(getResponse, "category.name", categoryName)
 WS.verifyElementPropertyValue(getResponse, "tags.name", [tagsName])
 
+GlobalVariable.id = WS.getElementPropertyValue(getResponse, 'id')

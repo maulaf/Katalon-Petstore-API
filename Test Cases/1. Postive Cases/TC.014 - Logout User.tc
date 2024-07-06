@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.014 - Logout User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d362460d-c983-4c94-9965-0462ca76c836</testCaseGuid>
+</TestCaseEntity>

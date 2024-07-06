@@ -39,7 +39,7 @@
    <socketTimeout>-1</socketTimeout>
    <useServiceInfoFromWsdl>true</useServiceInfoFromWsdl>
    <variables>
-      <defaultValue>''</defaultValue>
+      <defaultValue>GlobalVariable.id</defaultValue>
       <description></description>
       <id>07d9f4cc-29b6-46a4-be03-250a53ff0f7a</id>
       <masked>false</masked>

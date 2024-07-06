@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Success Add Pet</name>
+   <name>TC.014 - Login User</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>df11e1c6-d1c8-411e-ac62-db888c2de284</testCaseGuid>
+   <testCaseGuid>094c0371-f80f-4543-b3da-d7b055c7698e</testCaseGuid>
 </TestCaseEntity>

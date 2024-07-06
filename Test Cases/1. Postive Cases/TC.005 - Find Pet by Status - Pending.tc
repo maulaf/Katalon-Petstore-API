@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Success Create User</name>
+   <name>TC.005 - Find Pet by Status - Pending</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>d0694135-fdfd-4eb9-871c-541a8ec3610a</testCaseGuid>
+   <testCaseGuid>b16b0084-b58d-4c99-95a5-ab4b43e18870</testCaseGuid>
 </TestCaseEntity>

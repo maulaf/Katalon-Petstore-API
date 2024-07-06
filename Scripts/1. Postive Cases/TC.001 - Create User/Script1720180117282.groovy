@@ -47,3 +47,5 @@ WS.verifyElementPropertyValue(getUserResponse, 'phone', phone)
 WS.verifyElementPropertyValue(getUserResponse, 'password', password)
 
 GlobalVariable.id = WS.getElementPropertyValue(getUserResponse, 'id')
+
+return username

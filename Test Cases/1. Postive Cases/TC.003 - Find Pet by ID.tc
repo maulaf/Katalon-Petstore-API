@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.003 - Find Pet by ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba1f26c1-962f-4ddb-ab66-0a45768f5387</testCaseGuid>
+</TestCaseEntity>
