@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.003 - Find Pet by ID (Non-existent ID)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da8297f1-43b8-42bc-bd5d-7de9699f20f7</testCaseGuid>
+</TestCaseEntity>
