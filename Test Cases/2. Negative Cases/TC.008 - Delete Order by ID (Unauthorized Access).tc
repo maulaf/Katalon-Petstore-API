@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.008 - Delete Order by ID (Unauthorized Access)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f769565a-760a-4f74-9947-17e789ebb44d</testCaseGuid>
+</TestCaseEntity>

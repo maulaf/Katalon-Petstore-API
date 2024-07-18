@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.007 - Get Order by ID (Non-existent Order ID)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>09cecbc8-3b66-47b4-8020-5989af64198f</testCaseGuid>
+</TestCaseEntity>
